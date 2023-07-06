@@ -1,7 +1,7 @@
 # Tradingview Widget
 
 ### Link do projeto
-[https://financas-nodes-api.onrender.com]
+(https://cool-nvutu-eladio-f5133b.netlify.app)
 
 
 
