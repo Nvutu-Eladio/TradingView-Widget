@@ -1,7 +1,7 @@
 # Tradingview Widget
 
 ### Link do projeto
-(https://cool-nvutu-eladio-f5133b.netlify.app)
+https://cool-nvutu-eladio-f5133b.netlify.app
 
 
 
